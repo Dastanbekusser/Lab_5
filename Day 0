@@ -1,0 +1,7 @@
+function greeting(parameter) {
+    
+    console.log("Hello, World!");
+   
+    console.log(parameter);
+    
+}
